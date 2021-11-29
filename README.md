@@ -1,5 +1,5 @@
-angular > 13.0.0 
-node.js > 14.15.0
+angular > 13.0.0 <br>
+node.js > 14.15.0 <br>
 
-npm install 
+npm install <br>
 ionic serve
